@@ -1,8 +1,7 @@
-# Intro-in-python
+Intro in python
 Here i will be sharing my coding journey with python!!
 
 latest update: Coding python in Bahria Univeristy Main Auditorium
-
 
 Hello.py : Just an introduction into python, how to print the mighty Hello World!!
 
