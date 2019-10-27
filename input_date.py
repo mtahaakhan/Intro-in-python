@@ -21,4 +21,4 @@ birthday_eve = birthday_date - one_day
 
 print('Day before birthday: ' + str(birthday_eve))
 
-# ! Now we will see Error Handling if we receive birthday date in spaces or dashes.
+# ! Now we will see Error Handling if we receive birthday date in spaces or ashes.
