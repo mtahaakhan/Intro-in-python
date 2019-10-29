@@ -13,12 +13,12 @@ name = "Muhammad Taha Khan"
 
 
 
-"""
-for multi line comment
 
-everything which have a name, is CLASS
+# for multi line comment
 
-OBJECT have 2 things : METHODS, ATTRIBUTES
+# everything which have a name, is CLASS
+
+# OBJECT have 2 things : METHODS, ATTRIBUTES
 
 
 father_name = "Murrawat Muhammad Khan"
