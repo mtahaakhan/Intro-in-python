@@ -13,7 +13,7 @@
 
 ### 5. input_date,get_current_date,format_date,date_function : All of them are using datetime library from python where we can get current date and time and store them in a variable
 
-### 6. multiple_if_statements,nested_if,and_operator,boolean : all are using if somehow.
+### 6. multiple_if_statements,nested_if,and_operator,boolean : all are using if somehow
 
 ## Topics Learned till now are':'
 
