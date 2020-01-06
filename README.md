@@ -40,13 +40,11 @@ to
 
 * Classes, Objects, Methods, Attributes and much more.
 
-### PIAIC (Presidential Initiative for Artificial Intelligence & Computing)
 
-* PIAIC is an Initiative from President of Pakistan Mr. Arif Alvi to make youth of Pakistan technically strong in world market.
 
-* I'm student of PIAIC Batch 3 Islamabad.
+## [PIAIC](https://www.piaic.org/) (Presidential Initiative for Artificial Intelligence & Computing)
 
-* Here i upload what i learn and code at onsite class in Bahria University Islamabad Campus.
+PIAIC is an Initiative from President of Pakistan Mr. Arif Alvi to make youth of Pakistan technically strong in world market. I'm student of PIAIC Batch 3 Islamabad. Here i upload what i learn and code at onsite class in Bahria University Islamabad Campus.
 
 
 
@@ -68,14 +66,14 @@ Here I randomly search for youtube videos to learn Python and i would like to re
 
 
 
-## Contact Me:
+### Contact Me:
 
 * [Facebook](https://www.facebook.com/mtahaakhan) - Facebook
 * [Instagram](https://www.instagram.com/tahaadotdev) - Instagram
 
 
 
-## Books for Complete Understanding of Python
+### Books for Complete Understanding of Python
 
 * Smarter way to learn Python
 * Python Crash Course
