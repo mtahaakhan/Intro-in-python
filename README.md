@@ -42,11 +42,11 @@ to
 
 ### PIAIC (Presidential Initiative for Artificial Intelligence & Computing)
 
-PIAIC is an Initiative from President of Pakistan Mr. Arif Alvi to make youth of Pakistan technically strong in world market.
+* PIAIC is an Initiative from President of Pakistan Mr. Arif Alvi to make youth of Pakistan technically strong in world market.
 
-I'm student of PIAIC Batch 3 Islamabad.
+* I'm student of PIAIC Batch 3 Islamabad.
 
-& here i upload what i learn and code at onsite class in Bahria University Islamabad Campus.
+* Here i upload what i learn and code at onsite class in Bahria University Islamabad Campus.
 
 
 
@@ -70,8 +70,8 @@ Here I randomly search for youtube videos to learn Python and i would like to re
 
 ## Contact Me:
 
-[Facebook](https://www.facebook.com/mtahaakhan) - Facebook
-[Instagram](https://www.instagram.com/tahaadotdev) - Instagram
+* [Facebook](https://www.facebook.com/mtahaakhan) - Facebook
+* [Instagram](https://www.instagram.com/tahaadotdev) - Instagram
 
 
 
